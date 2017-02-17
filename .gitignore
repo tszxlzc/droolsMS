@@ -1,0 +1,12 @@
+.idea/
+.classpath
+.project
+.settings/
+target/
+*.iml
+*/.classpath
+*/.project
+*/logs/*
+buildAndMv.sh
+logs/
+build/
